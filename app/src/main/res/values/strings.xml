@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Medca Chifae</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="doliprane">comprimé effervescent sécableParacétamol,Il est indiqué en cas de douleur et/ou fièvre telles que maux de tête, états grippaux, douleurs dentaires, courbatures, règles douloureuses.</string>
+    <string name="NURODOL">Ce médicament contient de l’ibuprofène. Il est indiqué chez le nourrisson et l’enfant de 3 mois à 12 ans (soit environ 40 kg), dans le traitement de la fièvre et/ou douleurs telles que : maux de tête, états grippaux, douleurs dentaires et courbatures.</string>
+    <string name="Gaviscon">GAVISCON suspension est un médicament indiqué dans le traitement des symptômes du reflux gastro-oesophagien : régurgitations acides, digestion difficile, œsophagite.</string>
+    <string name="Mivolis">Les comprimés sains plus vitamine C effervescents à la saveur d’orange sanguine ne contiennent pas de sucre ajouté. La vitamine C soutient le système immunitaire.20 comprimés effervescents à 4,1 g.</string>
+    <string name="BRONCHOCIST">Ce médicament est un fluidifiant des sécrétions bronchiques.Il facilite leur évacuation par la toux et dégage les bronches en fluidifiant les sécrétions.Il est indiqué en cas d’affection respiratoire récente avec difficulté d’expectoration (difficulté à rejeter en crachant les sécrétions bronchiques).</string>
+    <string name="Rinomicine">Rinomicine® est indiqué dans le traitement symptomatique des : Etats grippaux : rhume, congestion nasale, catarrhe nasal et éternuement. Etats fébriles.: fièvre, courbatures, refroidissement, douleurs modérées ou élevées (telles que maux de tête).</string>
+    <string name="Sirop">Sirop naturel aux extraits de Propolis et de plantes, spécialement conçu à partir d\'ingrédients 100 % d\'origine naturelle, sans conservateur et sans colorant, recommandé pour tous les types de toux (sèche ou productive/grasse), qui convient à toute la famille.Il aide à adoucir la gorge irritée et facilite la respiration.</string>
+    <string name="message_confirm">Merci pour votre confiance \n Vous allez reçue votre demande dans <font color="#1c6433"><b>2 jours</b></font> </string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+
+    <string name="notification"><b>Notification nouveau statut</b>\n Soyez averti lorsque de \n nouveau medicaments sont disponibles</string>
+    <string name="politique"><b>Politiques de confidentialité</b>\n Nos termes et coditions</string>
+    <string name="help">Help &amp;  F.A.Q</string>
+    <string name="historique"> <b>Effacer l\'historique de rechercher</b>\n Effacer les recherches effectuées sur cette appareil</string>
+
+    <string name="name">Nom Complet</string>
+    <string name="message">Message</string>
+    <string name="email">Email</string>
+
+</resources>

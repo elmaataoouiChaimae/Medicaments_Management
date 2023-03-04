@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_marginTop="16dp"
+    android:layout_marginStart="16dp"
+    android:background="@color/white"
+    >
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:layout_width="130dp"
+        android:layout_height="130dp"
+        android:src="@drawable/medca"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="8dp"
+        android:id="@+id/user_name"
+        android:textSize="20sp"
+        android:textColor="#1c6433"
+        android:text="@string/app_name"
+        android:textStyle="bold"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="L'espérance de guérir est déjà la moitié de la guérison"
+        android:textStyle="italic"
+        android:textColor="#7c926f"
+        android:textSize="16dp"
+        
+        />
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginTop="30dp"
+        android:background="#BDB8B8"
+
+        />
+</LinearLayout>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1024083912852",
+    "project_id": "medicaments-managment",
+    "storage_bucket": "medicaments-managment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024083912852:android:baa470a56771a5bc4eec81",
+        "android_client_info": {
+          "package_name": "com.example.medicaments_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024083912852-v49mf0mgovimdtqf4sc87a8mkl7tqk7u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.medicaments_management",
+            "certificate_hash": "96ac5129cbea0df62ee7864b76b6aa60156d7a64"
+          }
+        },
+        {
+          "client_id": "1024083912852-98ab5up4l4sf7qdsosvhhs2nk4h5s12m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkw2qTzLMwilcFZE4T9KhdvPFIKBu2rVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024083912852-98ab5up4l4sf7qdsosvhhs2nk4h5s12m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
